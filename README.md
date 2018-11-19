@@ -5,12 +5,12 @@
 
 ##舉例說明：
 1. abandon v
-> Definition: to leave someone or something somewhere, sometimes not returning to get them
-> Example: They were forced to abandon the car.||All at once, they abandoned their sacks of stolen property and ran for their lives!
-> 篩選前結果: change.v.02 (不屬於 abandon-v 所對應到的 WordNet 分類)
-> 篩選後結果: leave.v.01
-{'abandon-v-1': 'get_rid_of.v.01', 
- 'abandon-v-2': 'abandon.v.02', 
- 'abandon-v-3': 'leave.v.01', 
- 'abandon-v-4': 'abandon.v.04', 
+> * Definition: to leave someone or something somewhere, sometimes not returning to get them
+> * Example: They were forced to abandon the car.||All at once, they abandoned their sacks of stolen property and ran for their lives!
+> * 篩選前結果: change.v.02 (不屬於 abandon-v 所對應到的 WordNet 分類)
+> * 篩選後結果: leave.v.01<br>
+{'abandon-v-1': 'get_rid_of.v.01', <br>
+ 'abandon-v-2': 'abandon.v.02', <br>
+ 'abandon-v-3': 'leave.v.01', <br>
+ 'abandon-v-4': 'abandon.v.04', <br>
  'abandon-v-5': 'leave.v.02'}
